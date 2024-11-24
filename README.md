@@ -6,4 +6,4 @@ The use of these files is at your own risk. The authors and contributors are not
 
 **MICROPROBE-V2**
 
- ![Example Image](https://github.com/GSVil/BIQU-B1-SKR-V1.4---Firmware-BIN-Files/blob/main/other%20files/MICROPROBE-V2-pic1.jpghttps://github.com/<your-username>/<your-repository>/blob/master/images/example.png)
+ ![Example Image](https://github.com/GSVil/BIQU-B1-SKR-V1.4---Firmware-BIN-Files/blob/main/other%20files/MICROPROBE-V2-pic1.jpg)
