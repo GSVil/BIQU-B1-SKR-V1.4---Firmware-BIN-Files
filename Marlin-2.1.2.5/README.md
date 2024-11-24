@@ -1,3 +1,7 @@
+**---File Versions--** 
+1) firmware - Clean Build.bin : Clean Build of Marlin 2.1.2.5 (without MICROPROBE-V2 config) for the BIQU-B1-SKR-V1.4
+2) firmware - MICROPROBE-V2.bin : MICROPROBE-V2 specific build of Marlin 2.2.2.5 for the BIQU-B1-SKR-V1.4
+
 **---Important Notes---** 
 1) The files provided will only work if your BIQU-B1 printer is equipped with the **BOARD_BTT_SKR_V1_4** Motherboard.
 2) Make sure you have flashed your BIQU-B1 with the latest BIGTREETECH TouchScreen Firmware; otherwise, it might not be compatible with this motherboard firmware.
