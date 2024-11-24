@@ -1,1 +1,10 @@
-Contains firmware.bin files for BIQU-B1-SKR-V1.4 - Marlin-2.1.2.5
+**---Important Notes---** 
+1) The files provided will only work if your BIQU-B1 printer is equipped with the **BOARD_BTT_SKR_V1_4** Motherboard.
+2) Using the "MICROPROBE-V2" version of the firmware will **disable** the **Z-axis micro-switch**, and the MICROPROBE-V2 will be used for Z-Homing and leveling.
+3) **Mesh-Bed-Leveling** will be replaced with **Auto Bed Leveling**, so make sure to enable ABL in CURA or whichever slicer you use.
+
+**---How to use these files---** 
+
+1) Download the file you are interested in.
+2) Rename the file to "firmware.bin"
+3) Copy the file to an SD-Card and Flash to your BIQU-B1-SKR-V1.4
