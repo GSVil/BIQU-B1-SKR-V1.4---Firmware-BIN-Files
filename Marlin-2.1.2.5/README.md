@@ -2,7 +2,7 @@
 1) firmware - Clean Build.bin : Clean Build of Marlin 2.1.2.5 (without MICROPROBE-V2 config) for the BIQU-B1-SKR-V1.4
 2) firmware - MICROPROBE-V2.bin : MICROPROBE-V2 specific build of Marlin 2.2.2.5 for the BIQU-B1-SKR-V1.4
 3) firmware - MICROPROBE-V2 - 2025-02-22.bin : MICROPROBE-V2 specific build of Marlin 2.2.2.5 for the BIQU-B1-SKR-V1.4 with a number of enhancements, which can be summarised as follows:
-   - Increased the probing points from 3 x 3, to 5 x 5. This allows for more acurate AUTO Leveling
+   - Increased the probing points from 3 x 3, to 5 x 5. This allows for more accurate AUTO Leveling
    - Added SKEW_CORRECTION to allow for skew compensation via M852 command.
    - Added PROBE OFFSET WIZARD to Marlin Menu, this is because I found the touch-screen probe-wizard to not work well so I switched to the Marlin one. 
 
