@@ -11,7 +11,7 @@
 2) Make sure you have flashed your BIQU-B1 with the latest BIGTREETECH TouchScreen Firmware; otherwise, it might not be compatible with this motherboard firmware.
 3) The "MICROPROBE-V2" version of the firmware assumes you have used the probe connector at the back of the BIQU-B1.
 4) Using the "MICROPROBE-V2" version of the firmware will **disable** the **Z-axis micro-switch**, and the MICROPROBE-V2 will be used for Z-Homing and leveling.
-5) Make sure you adjust the **Probe Offsets** for your specific installation; mine is installed to the right of the extruder.
+5) Make sure you adjust the **Probe Offsets** for your specific installation; mine was installed to the right of the extruder (firmware - MICROPROBE-V2.bin), it is now positioned in the middle (firmware - MICROPROBE-V2 - 2025-02-22.bin).
 6) **Mesh-Bed-Leveling** will be replaced with **Auto Bed Leveling**, so make sure to enable ABL in CURA or whichever slicer you use.
 
 **---How to use these files---** 
